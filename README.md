@@ -7,3 +7,5 @@ Ru layout for Caribou Gnome 3 screen keyboard
 sudo cp ~/Загрузки/ru.xml /usr/share/caribou/layouts/touch/
 
 Для применения результата перезапустите Gnome-shell (Alt+F2 -> r -> Enter)
+
+Видео инструкции здесь: https://youtu.be/uIEMS2Ctm-o
